@@ -1,16 +1,24 @@
-## Hi there 👋
+<table>
+<tr>
 
-<!--
-**blu3b3ry-cheesez/blu3b3ry-cheesez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<td>
 
-Here are some ideas to get you started:
+## Your Name
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+call me din """
+
+### About
+c.h freely 𐔌՞. .՞𐦯 
+vie/safe ๋࣭ ⭑
+discord: dn.che3ze
+
+</td>
+
+<td>
+
+<img src="https://i.pinimg.com/736x/75/a3/d0/75a3d0100288e4d5e564d7c2bd731222.jpg" width="200"/>
+
+</td>
+
+</tr>
+</table>
